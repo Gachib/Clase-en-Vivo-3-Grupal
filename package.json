@@ -1,0 +1,23 @@
+{
+  "name": "clase-en-vivo-3-grupal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gachib/Clase-en-Vivo-3-Grupal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gachib/Clase-en-Vivo-3-Grupal/issues"
+  },
+  "homepage": "https://github.com/Gachib/Clase-en-Vivo-3-Grupal#readme",
+  "dependencies": {
+    "zodiac-signs": "^1.1.0"
+  }
+}
